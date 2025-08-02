@@ -28,7 +28,7 @@
     "mongodb": "^6.17.0",
     "mongoose": "^8.5.2",
     "nodemailer": "^6.9.14",
-    "openai": "^5.1.0",
+    "openai": "^5.9.0",
     "server": "file:",
     "uuid": "^10.0.0"
   },
