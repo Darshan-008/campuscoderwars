@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# HEAD
 # Campus CodeWars
 
 Campus CodeWars is a full-stack web application for coding competitions, problem solving, and collaborative learning. It features a React frontend, a Node.js/Express backend, and MongoDB for data storage.
