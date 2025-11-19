@@ -18,7 +18,7 @@
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^1.0.6",
     "@uiw/react-codemirror": "^4.23.0",
-    "axios": "^1.7.2",
+    "axios": "^1.13.1",
     "campuscodewars": "file:",
     "campuscodewars-client": "file:",
     "heroicons-react": "^1.4.1",
